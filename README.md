@@ -1,5 +1,5 @@
 # Guitar Hero
-
+![Game Preview](assets/preview.png)
 ## Description
 
 This is a Guitar Hero inspired game built using Typescript. It is implemented in a functional reactive programming style, using RxJS
