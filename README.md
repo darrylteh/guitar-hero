@@ -20,14 +20,28 @@ The game ends when the song is finished. Players can choose to restart the game 
 
 ## Setup
 
-Install packages and dependencies (this requires Node.js):
+**1. Install packages and dependencies**
+
+Make sure you have Node.js installed. Then, in the project directory, run:
 
 ```bash
 > npm install
 ```
 
-Run the game by using the URL in the console.
+**2. Start the development server**
 
 ```bash
 > npm run dev
 ```
+This runs the game locally. You should see output similar to:
+```bash
+➜  Local:   http://localhost:5173/
+```
+
+**3. Open the game in your browser**
+
+Use the link provided in the terminal to open the game in your web browser.
+
+**4. Start the game**
+
+Click anywhere on the page to start the game.
